@@ -49,11 +49,11 @@ Please provide a link to this GitHub repository if reuploading. Thank you.
 
 Written in C# .NET WPF.
 
-Currently compiled in <a href="https://www.microsoft.com/en-us/download/details.aspx?id=56115">.NET 4.7.1</a>.
+Currently compiled in <a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer">.NET 4.7.2</a>.
 
 You will need to run it as administrator.
 
-Data provided by <a href="http://openhardwaremonitor.org/">Open Hardware Monitor</a>.
+Data provided by <a href="https://github.com/LibreHardwareMonitor/LibreHardwareMonitor">Libre Hardware Monitor</a>.
 
 <img src="http://i.imgur.com/70LkdwO.png" />
 
